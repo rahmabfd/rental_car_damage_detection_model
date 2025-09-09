@@ -1,0 +1,20 @@
+{
+  "reference": "38DAA99B",
+  "first_name": "adli",
+  "last_name": "boufaied",
+  "location": "Gab\u00e8s",
+  "pickup_datetime": "2025-08-24T19:00",
+  "return_datetime": "2025-08-25T19:00",
+  "vehicle_type": "opel astra",
+  "vehicle_number": "137",
+  "front_initial_path": "uploads\\38DAA99B_front_initial.jpg",
+  "initial_damage_report": {
+    "has_damage": false,
+    "damages": [],
+    "annotated_image": "/uploads/38DAA99B_front_initial.jpg",
+    "prediction_count": 0,
+    "note": "Analysis completed with fallback method"
+  },
+  "created_at": "2025-08-24T16:07:39.871048",
+  "status": "active"
+}
